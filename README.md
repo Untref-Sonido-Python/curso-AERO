@@ -1,6 +1,6 @@
 # curso-AERO
 # UNTREF - Ingenierı́a de Sonido
-## Introducción a Python para Ingenieros
+# Introducción a Python para Ingenieros
 ### Objetivo del curso
 Ante todo ... *bienvenidos*! Procuramos aqui proporcionar una introducción al lenguaje
 de programación Python enfocado principalmente a cientı́ficos, ingenieros o cualquier
