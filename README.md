@@ -1,4 +1,3 @@
-# curso-AERO
 # UNTREF - Ingenierı́a de Sonido
 # Introducción a Python para Ingenieros
 ## Objetivo del curso
