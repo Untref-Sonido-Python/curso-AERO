@@ -7,4 +7,4 @@ Miercoles de 10 a 12 hs
 ## Comentarios
 A tener en cuenta:
 * Pueden formular consultas y/o dudas creando su propio material (archivos de texto, imagen) en la carpeta `consultas`.
-* Asimismo, por cualquier inquietud que les surja durante la cursada de alguna materia en la carrera, les aconsejo escribir la misma en la carpeta `temas-de-interes` y procuraremos desarrollar una herramienta **Python** que nos facilite la comprension del tema en cuestion.
+* Asimismo, por cualquier inquietud que les surja durante la cursada de alguna materia en la carrera, les aconsejo escribir una descripcion de la misma en la carpeta `temas-de-interes` y procuraremos desarrollar una herramienta **Python** que nos facilite la comprension del tema en cuestion!
