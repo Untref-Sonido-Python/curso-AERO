@@ -7,4 +7,4 @@ Dia y hora a establecer.
 ## Comentarios
 A tener en cuenta:
 * Pueden formular consultas y/o dudas creando su propio material (archivos de texto, imagen, codigo) en la carpeta `consultas`. La misma sera respondida a la *brevedad* en la carpeta ... si no es *asi* avisar!
-* Asimismo, por cualquier inquietud que les surja durante el dictado de alguna materia en la carrera, los invito a escribir una descripcion de la misma en la carpeta `temas-de-interes` y procuraremos desarrollar una herramienta **Python** que nos facilite la comprension del tema en cuestion!
+* Asimismo, por cualquier inquietud de *aplicacion en Python* que les surja durante el dictado de alguna materia en la carrera, los invito a escribir una descripcion de la misma en la carpeta `temas-de-interes` y procuraremos desarrollar una herramienta **Python** que nos facilite la comprension del tema en cuestion!
